@@ -1,0 +1,9 @@
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\bin\Debug\WinSmallGames.exe.config
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\bin\Debug\WinSmallGames.exe
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\bin\Debug\WinSmallGames.pdb
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.Form1.resources
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.Properties.Resources.resources
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.csproj.GenerateResource.cache
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.exe
+C:\Users\scott\source\repos\WinSmallGames\WinSmallGames\obj\Debug\WinSmallGames.pdb
